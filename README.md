@@ -1,2 +1,3 @@
 # study-python
-用来学习python的文档大苏打
+
+记录自己日常学习python的内容和一些python项目
